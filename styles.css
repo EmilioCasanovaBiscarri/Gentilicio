@@ -83,7 +83,7 @@ button { font: inherit; color: inherit; }
 
 .cabecera {
   display: grid;
-  grid-template-columns: 44px 1fr auto;
+  grid-template-columns: 44px 1fr 44px;
   align-items: center;
   gap: 8px;
   padding-bottom: 8px;
@@ -123,26 +123,9 @@ button { font: inherit; color: inherit; }
 
 .boton-icono:hover { border-color: var(--tinta-suave); }
 
-.marcador {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  min-width: 44px;
-  font-size: 0.85rem;
-  line-height: 1.25;
-  color: var(--tinta-suave);
-  font-variant-numeric: tabular-nums;
-}
-
-.racha {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.2em;
-  color: var(--tinta);
-  font-weight: 600;
-}
-
-.racha svg { width: 0.85em; height: 0.85em; fill: var(--rojo); }
+/* Estadísticas: icono de barras sin borde, como en los demás juegos del Almanaque. */
+.boton-icono--liso { display: grid; place-items: center; border-color: transparent; }
+.boton-icono svg { width: 1.4rem; height: 1.4rem; fill: none; stroke: var(--tinta); stroke-width: 2; stroke-linecap: round; }
 
 /* ---------- Aviso de modo prueba ---------- */
 
