@@ -392,7 +392,7 @@ function resumen(numero, reto, respuestas) {
     }
 
     <button id="compartir" class="boton" type="button">Compartir</button>
-    <a class="boton boton-almanaque" data-almanaque-volver hidden href="https://joseleking.github.io/Almanaque/">☜ Regresar al Almanaque</a>
+    <a class="boton boton-almanaque" data-almanaque-volver hidden href="https://emiliocasanovabiscarri.github.io/Almanaque/">☜ Regresar al Almanaque</a>
     <p class="siguiente">Nuevos gentilicios en <time id="cuenta">${cuentaAtras()}</time></p>
     <p class="creditos">Mapas de <a href="https://www.naturalearthdata.com" target="_blank" rel="noopener">Natural Earth</a> (dominio público).</p>
   `;
@@ -434,7 +434,7 @@ function responder(numero, indice, valor) {
 // Una marca por gentilicio: ▰ acertado, ▱ fallado. «Gentilicio nº 7 ▰▱▰ 2/3 aciertos» y el enlace.
 function textoCompartir(numero, aciertos) {
   const marcas = aciertos.map((a) => (a ? '▰' : '▱')).join('');
-  return `Gentilicio nº ${numero} ${marcas} ${aciertos.filter(Boolean).length}/${aciertos.length} aciertos\njoseleking.github.io/Gentilicio`;
+  return `Gentilicio nº ${numero} ${marcas} ${aciertos.filter(Boolean).length}/${aciertos.length} aciertos\nemiliocasanovabiscarri.github.io/Gentilicio`;
 }
 
 async function compartir(numero, aciertos) {

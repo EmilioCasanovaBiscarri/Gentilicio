@@ -2,7 +2,7 @@
 
 Juego diario de gentilicios. Cada día hay tres, los mismos para todos: hay que elegir de qué
 lugar es cada uno entre tres opciones, con un solo intento. Al responder se ve de dónde viene
-el nombre y el lugar en el mapa. Forma parte de la colección de [Almanaque](https://joseleking.github.io/Almanaque/).
+el nombre y el lugar en el mapa. Forma parte de la colección de [Almanaque](https://emiliocasanovabiscarri.github.io/Almanaque/).
 
 Es una web estática (HTML, CSS y JavaScript, sin frameworks ni compilación), lista para
 GitHub Pages e instalable como aplicación (PWA).
@@ -86,9 +86,9 @@ instalada reciban la versión nueva.
 
 ## Publicar en GitHub Pages
 
-1. Sube el repositorio a GitHub (`JoseleKing/Gentilicio`).
+1. Sube el repositorio a GitHub (`emiliocasanovabiscarri/Gentilicio`).
 2. En **Settings → Pages**, elige **Deploy from a branch**, rama `main` y carpeta `/ (root)`.
-3. En un par de minutos estará en <https://joseleking.github.io/Gentilicio/>.
+3. En un par de minutos estará en <https://emiliocasanovabiscarri.github.io/Gentilicio/>.
 
 ## Créditos
 
