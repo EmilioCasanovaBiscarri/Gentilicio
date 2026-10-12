@@ -342,25 +342,49 @@ button { font: inherit; color: inherit; }
 
 /* ---------- Resumen ---------- */
 
-.resumen h2 {
-  margin: 16px 0 4px;
+/* Pantalla final, igual en todos los juegos del Almanaque: ficha con el resultado, una línea
+   por pregunta, estadísticas y botones. Todo cabe en el móvil sin desplazarse hasta los botones. */
+
+.ficha {
+  margin: 12px 0 0;
+  padding: 10px 16px 12px;
+  border: 1px solid var(--linea);
+  outline: 1px solid var(--linea);
+  outline-offset: -5px;
+  border-radius: 2px;
+  background: var(--tarjeta);
   text-align: center;
-  font-family: var(--letra-titulo);
-  font-weight: 400;
-  font-size: 1.9rem;
 }
 
-.lista-resumen { margin: 12px 0 0; padding: 0; list-style: none; }
+.marcas { display: flex; justify-content: center; gap: 10px; margin: 2px 0 0; }
+
+.marcas svg { width: 18px; height: 24px; }
+.marcas .bien { fill: var(--rojo); }
+.marcas .mal { fill: none; stroke: var(--tinta-tenue); stroke-width: 9; }
+
+.resumen h2 {
+  margin: 2px 0 0;
+  font-family: var(--letra-titulo);
+  font-weight: 400;
+  font-size: 2.4rem;
+  line-height: 1.05;
+}
+
+.resumen h2 small { font-size: 0.55em; color: var(--tinta-suave); }
+
+.frase { margin: 2px 0 0; font-style: italic; font-size: 1.1rem; color: var(--tinta-suave); }
+
+.lista-resumen { margin: 8px 0 0; padding: 0; list-style: none; }
 
 .lista-resumen li { border-bottom: 1px solid var(--linea); }
 
 .lista-resumen summary {
   display: grid;
-  grid-template-columns: 28px 1fr auto;
+  grid-template-columns: 24px 1fr auto 14px;
   align-items: baseline;
   gap: 8px;
-  min-height: 48px;
-  padding: 10px 0;
+  min-height: 42px;
+  padding: 7px 0;
   cursor: pointer;
   list-style: none;
 }
@@ -372,9 +396,9 @@ button { font: inherit; color: inherit; }
 .lista-resumen .marca.mal { color: var(--rojo); }
 .lista-resumen .lema { font-family: var(--letra-titulo); font-size: 1.25rem; }
 .lista-resumen .destino { color: var(--tinta-suave); text-align: right; }
+.lista-resumen .abrir { color: var(--tinta-tenue); font-size: 1.2rem; line-height: 1; transition: transform 0.2s; }
+.lista-resumen details[open] .abrir { transform: rotate(90deg); }
 .lista-resumen .detalle { padding: 0 0 12px; }
-
-.nota { margin: 8px 0 0; text-align: center; color: var(--tinta-tenue); font-size: 0.9rem; }
 
 .estadisticas {
   display: grid;
@@ -395,6 +419,22 @@ button { font: inherit; color: inherit; }
 }
 
 .estadisticas span { font-size: 0.8rem; color: var(--tinta-suave); }
+
+.resumen ~ .estadisticas { margin-top: 12px; padding: 6px 0; }
+.resumen ~ .estadisticas strong { font-size: 1.35rem; }
+.resumen ~ .boton { min-height: 48px; margin-top: 12px; padding: 8px 16px; }
+.resumen ~ .boton-almanaque { margin-top: 8px; }
+
+/* En pantallas bajas (iPhone SE, Android pequeños) las estadísticas bajan bajo los botones,
+   para que Compartir, Siguiente juego y Regresar se vean sin desplazarse. */
+@media (max-height: 660px) {
+  #app:has(> .resumen) { display: flex; flex-direction: column; }
+  #app:has(> .resumen) > .estadisticas,
+  #app:has(> .resumen) > .siguiente,
+  #app:has(> .resumen) > .creditos { order: 1; }
+  .ficha { margin-top: 8px; }
+  .lista-resumen summary { min-height: 40px; padding: 6px 0; }
+}
 
 .siguiente { margin: 14px 0 0; text-align: center; color: var(--tinta-suave); }
 

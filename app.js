@@ -8,6 +8,13 @@ const INICIO = { anio: 2026, mes: 10, dia: 2 };
 const CLAVE = 'gentilicio:v1';
 const PREGUNTAS = 3;
 const NIVELES = ['Despegue', 'La trampa', 'Jefe final'];
+/** Frase de la ficha final según los aciertos del día (0 a 3). */
+const FRASES = [
+  'Hoy el mapa se te ha resistido.',
+  'Un lugar en su sitio. Algo es algo.',
+  'Casi todo el mapa en su sitio.',
+  'Ni un lugar sin su gente.',
+];
 const MS_DIA = 86400000;
 
 const ESTADISTICAS_INICIALES = { dias: 0, preguntas: 0, aciertos: 0, racha: 0, mejorRacha: 0, ultimoDia: 0 };
@@ -188,7 +195,7 @@ function render() {
 
   app.innerHTML = `
     ${diaPrueba ? avisoPrueba(numero) : ''}
-    ${progreso(reto, respuestas)}
+    ${vista < PREGUNTAS ? progreso(reto, respuestas) : ''}
     ${vista < PREGUNTAS ? pregunta(numero, vista, reto[vista], respuestas[vista]) : resumen(numero, reto, respuestas)}
   `;
 
@@ -355,6 +362,7 @@ function resumen(numero, reto, respuestas) {
               <span class="marca ${aciertos[i] ? 'bien' : 'mal'}" aria-label="${aciertos[i] ? 'Acierto' : 'Fallo'}">${aciertos[i] ? '✓' : '✗'}</span>
               <span class="lema">${esc(g.gentilicio)}</span>
               <span class="destino">${esc(g.etiqueta || g.lugar)}</span>
+              <span class="abrir" aria-hidden="true">›</span>
             </summary>
             <div class="detalle">${detalle(g, false)}</div>
           </details>
@@ -362,11 +370,19 @@ function resumen(numero, reto, respuestas) {
     )
     .join('');
 
+  // Una chincheta por pregunta: llena si se acertó, hueca si no.
+  const chinchetas = aciertos
+    .map((a) => `<svg class="${a ? 'bien' : 'mal'}" viewBox="172 94 148 200" aria-hidden="true"><path d="${CHINCHETA}"/></svg>`)
+    .join('');
+
   return `
-    <section class="resumen">
-      <h2>${total} de ${PREGUNTAS}</h2>
-      <ol class="lista-resumen">${lista}</ol>
-      <p class="nota">Toca un gentilicio para repasar su historia.</p>
+    <section class="resumen" aria-label="Resultado de hoy">
+      <div class="ficha">
+        <p class="marcas" role="img" aria-label="${total} ${total === 1 ? 'acierto' : 'aciertos'} de ${PREGUNTAS}">${chinchetas}</p>
+        <h2>${total} <small>de ${PREGUNTAS}</small></h2>
+        <p class="frase">${FRASES[total]}</p>
+      </div>
+      <ol class="lista-resumen" aria-label="Toca un gentilicio para repasar su historia">${lista}</ol>
     </section>
 
     ${
