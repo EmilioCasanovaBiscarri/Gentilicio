@@ -94,3 +94,7 @@ instalada reciban la versión nueva.
 
 Contornos del mapa: [Natural Earth](https://www.naturalearthdata.com) (dominio público).
 Tipografías: IM Fell English (Igino Marini) y EB Garamond, de Google Fonts (OFL).
+
+## Derechos de autor
+
+© 2026 Emilio Casanova Biscarri. Todos los derechos reservados. El código, los textos y los diseños de este repositorio no pueden copiarse ni reutilizarse sin permiso.
