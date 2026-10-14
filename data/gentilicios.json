@@ -4349,5 +4349,1293 @@
     "explicacion": "Se forma sobre Arévalo con el sufijo culto -ense.",
     "curiosidad": "Isabel la Católica pasó parte de su infancia en su castillo.",
     "otras_formas": []
+  },
+  {
+    "id": "albaceteño",
+    "gentilicio": "albaceteño",
+    "lugar": "Albacete",
+    "pais": "España",
+    "region": "Castilla-La Mancha",
+    "coordenadas": [
+      38.995,
+      -1.856
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Alicante",
+      "Almansa"
+    ],
+    "explicacion": "Se forma directamente sobre el nombre de la ciudad, que viene del árabe al-Basit, 'la llanura'.",
+    "curiosidad": "Sus navajas son famosas desde hace siglos; en la estación de tren se vendían a los viajeros.",
+    "otras_formas": []
+  },
+  {
+    "id": "santiaguino",
+    "gentilicio": "santiaguino",
+    "lugar": "Santiago de Chile",
+    "pais": "Chile",
+    "region": "Región Metropolitana",
+    "coordenadas": [
+      -33.449,
+      -70.669
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Santiago de Cuba",
+      "Santiago de Compostela"
+    ],
+    "explicacion": "Hay muchos Santiagos y cada uno tiene su gentilicio: santiaguino es de la capital chilena; santiaguero, de Santiago de Cuba, y compostelano o santiagués, de la ciudad gallega.",
+    "otras_formas": []
+  },
+  {
+    "id": "montisonense",
+    "gentilicio": "montisonense",
+    "lugar": "Monzón",
+    "pais": "España",
+    "region": "Aragón",
+    "coordenadas": [
+      41.91,
+      0.194
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Montilla",
+      "Montoro"
+    ],
+    "explicacion": "Viene del latín Mons Sonis, 'monte de Son', uno de los nombres antiguos de Monzón.",
+    "curiosidad": "En su castillo templario pasó la infancia el rey Jaime I el Conquistador.",
+    "otras_formas": [
+      "monzonero"
+    ]
+  },
+  {
+    "id": "tijuanense",
+    "gentilicio": "tijuanense",
+    "lugar": "Tijuana",
+    "pais": "México",
+    "region": "Baja California",
+    "coordenadas": [
+      32.514,
+      -117.038
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Toluca",
+      "Tampico"
+    ],
+    "explicacion": "Se forma con el sufijo -ense sobre el nombre de la ciudad.",
+    "curiosidad": "Es la ciudad más al noroeste de América Latina, pegada a San Diego, y una de las fronteras más transitadas del mundo.",
+    "otras_formas": []
+  },
+  {
+    "id": "ferrolano",
+    "gentilicio": "ferrolano",
+    "lugar": "Ferrol",
+    "pais": "España",
+    "region": "Galicia",
+    "coordenadas": [
+      43.484,
+      -8.233
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Fraga",
+      "Foz"
+    ],
+    "explicacion": "Se forma con el sufijo -ano sobre el nombre de la ciudad.",
+    "curiosidad": "Allí nacieron Francisco Franco, Gonzalo Torrente Ballester y Pablo Iglesias, el fundador del PSOE.",
+    "otras_formas": []
+  },
+  {
+    "id": "lucentino",
+    "gentilicio": "lucentino",
+    "lugar": "Lucena",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.409,
+      -4.485
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Lugo",
+      "Lorca"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad, que en época andalusí fue Eliossana, «la perla de Sefarad». Ojo con lucense, que es de Lugo.",
+    "curiosidad": "En la Edad Media fue una ciudad habitada casi solo por judíos, con una escuela talmúdica famosa.",
+    "otras_formas": [
+      "lucenense"
+    ]
+  },
+  {
+    "id": "gijonés",
+    "gentilicio": "gijonés",
+    "lugar": "Gijón",
+    "pais": "España",
+    "region": "Asturias",
+    "coordenadas": [
+      43.532,
+      -5.661
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Girona",
+      "Guijuelo"
+    ],
+    "explicacion": "Se forma con el sufijo -és sobre el nombre de la ciudad, en asturiano Xixón.",
+    "curiosidad": "Su paseo marítimo bordea la playa de San Lorenzo, y la ciudad presume del Elogio del Horizonte de Chillida.",
+    "otras_formas": [
+      "gijonense"
+    ]
+  },
+  {
+    "id": "cucuteño",
+    "gentilicio": "cucuteño",
+    "lugar": "Cúcuta",
+    "pais": "Colombia",
+    "region": "Norte de Santander",
+    "coordenadas": [
+      7.894,
+      -72.508
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Cumaná",
+      "Cuenca (Ecuador)"
+    ],
+    "explicacion": "Se forma con el sufijo -eño sobre el nombre de la ciudad, en la frontera con Venezuela.",
+    "curiosidad": "Cerca está la Villa del Rosario, donde se redactó en 1821 la Constitución de la Gran Colombia.",
+    "otras_formas": []
+  },
+  {
+    "id": "vallenato",
+    "gentilicio": "vallenato",
+    "lugar": "Valledupar",
+    "pais": "Colombia",
+    "region": "Cesar",
+    "coordenadas": [
+      10.463,
+      -73.253
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Valladolid",
+      "Vallenar"
+    ],
+    "explicacion": "Se forma sobre Valle de Upar, el nombre del valle donde está la ciudad.",
+    "curiosidad": "El vallenato, la música de acordeón, caja y guacharaca, se llama así porque nació allí. Su festival es cada abril.",
+    "otras_formas": [
+      "valduparense"
+    ]
+  },
+  {
+    "id": "barranquillero",
+    "gentilicio": "barranquillero",
+    "lugar": "Barranquilla",
+    "pais": "Colombia",
+    "region": "Atlántico",
+    "coordenadas": [
+      10.964,
+      -74.796
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Barquisimeto",
+      "Bucaramanga"
+    ],
+    "explicacion": "Se forma con el sufijo -ero sobre el nombre de la ciudad, junto a la desembocadura del Magdalena.",
+    "curiosidad": "Su carnaval es Patrimonio de la Humanidad desde 2003. Es también la ciudad de Shakira.",
+    "otras_formas": []
+  },
+  {
+    "id": "talaverano",
+    "gentilicio": "talaverano",
+    "lugar": "Talavera de la Reina",
+    "pais": "España",
+    "region": "Castilla-La Mancha",
+    "coordenadas": [
+      39.963,
+      -4.83
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Tarancón",
+      "Torrelavega"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad, a orillas del Tajo.",
+    "curiosidad": "Su cerámica, con la de Puente del Arzobispo, es Patrimonio Cultural Inmaterial de la Humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "harense",
+    "gentilicio": "harense",
+    "lugar": "Haro",
+    "pais": "España",
+    "region": "La Rioja",
+    "coordenadas": [
+      42.577,
+      -2.847
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Jaraíz de la Vera",
+      "Jerez de la Frontera"
+    ],
+    "explicacion": "Se forma con el sufijo -ense sobre el nombre de la ciudad. Popularmente se les llama jarreros.",
+    "curiosidad": "Cada 29 de junio celebra la Batalla del Vino, en la que miles de personas se empapan de tinto.",
+    "otras_formas": [
+      "jarrero"
+    ]
+  },
+  {
+    "id": "murciano",
+    "gentilicio": "murciano",
+    "lugar": "Murcia",
+    "pais": "España",
+    "region": "Región de Murcia",
+    "coordenadas": [
+      37.992,
+      -1.13
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Mazarrón",
+      "Mieres"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad, fundada en el siglo IX como Mursiya.",
+    "curiosidad": "La huerta del Segura le ha dado el sobrenombre de «huerta de Europa».",
+    "otras_formas": []
+  },
+  {
+    "id": "hermosillense",
+    "gentilicio": "hermosillense",
+    "lugar": "Hermosillo",
+    "pais": "México",
+    "region": "Sonora",
+    "coordenadas": [
+      29.073,
+      -110.956
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Hidalgo",
+      "Holguín"
+    ],
+    "explicacion": "Se forma con el sufijo -ense sobre el nombre de la ciudad, que honra al general José María González de Hermosillo.",
+    "curiosidad": "Es una de las ciudades más calurosas de México: en verano pasa a menudo de los 45 grados.",
+    "otras_formas": []
+  },
+  {
+    "id": "banilejo",
+    "gentilicio": "banilejo",
+    "lugar": "Baní",
+    "pais": "República Dominicana",
+    "region": "Peravia",
+    "coordenadas": [
+      18.28,
+      -70.331
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Banes",
+      "La Bañeza"
+    ],
+    "explicacion": "Es un gentilicio muy propio, con el sufijo -ejo sobre el nombre de la ciudad.",
+    "curiosidad": "Allí nació Máximo Gómez, el general de la independencia de Cuba. Sus mangos son famosos en todo el país.",
+    "otras_formas": []
+  },
+  {
+    "id": "holguinero",
+    "gentilicio": "holguinero",
+    "lugar": "Holguín",
+    "pais": "Cuba",
+    "region": "Holguín",
+    "coordenadas": [
+      20.887,
+      -76.263
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Hermosillo",
+      "Huelva"
+    ],
+    "explicacion": "Se forma con el sufijo -ero sobre el nombre de la ciudad, que viene del capitán García Holguín.",
+    "curiosidad": "Colón desembarcó en 1492 en sus costas y, según la tradición, dijo que era «la tierra más hermosa que ojos humanos vieron».",
+    "otras_formas": []
+  },
+  {
+    "id": "mirandés",
+    "gentilicio": "mirandés",
+    "lugar": "Miranda de Ebro",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      42.686,
+      -2.947
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Miranda (Venezuela)",
+      "Mieres"
+    ],
+    "explicacion": "Se forma con el sufijo -és sobre el nombre de la ciudad. Los del estado venezolano de Miranda son mirandinos.",
+    "curiosidad": "Es un gran nudo ferroviario del norte de España.",
+    "otras_formas": []
+  },
+  {
+    "id": "escurialense",
+    "gentilicio": "escurialense",
+    "lugar": "San Lorenzo de El Escorial",
+    "pais": "España",
+    "region": "Comunidad de Madrid",
+    "coordenadas": [
+      40.591,
+      -4.147
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Escalona",
+      "El Espinar"
+    ],
+    "explicacion": "Viene del latín, como «escorial»: el lugar donde se echan las escorias de una mina.",
+    "curiosidad": "El monasterio que mandó construir Felipe II se terminó en 1584, en solo veintiún años.",
+    "otras_formas": []
+  },
+  {
+    "id": "mallorquín",
+    "gentilicio": "mallorquín",
+    "lugar": "Mallorca",
+    "pais": "España",
+    "region": "Islas Baleares",
+    "coordenadas": [
+      39.62,
+      2.98
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Menorca",
+      "Málaga"
+    ],
+    "explicacion": "Viene del latín Maiorica, 'la mayor', porque es la mayor de las Baleares. Menorca, la menor, da menorquín.",
+    "curiosidad": "La ensaimada es el dulce mallorquín por excelencia.",
+    "otras_formas": []
+  },
+  {
+    "id": "encarnaceno",
+    "gentilicio": "encarnaceno",
+    "lugar": "Encarnación",
+    "pais": "Paraguay",
+    "region": "Itapúa",
+    "coordenadas": [
+      -27.33,
+      -55.866
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Asunción",
+      "Ensenada"
+    ],
+    "explicacion": "Se forma con el sufijo -eno, como asunceno, el de la capital.",
+    "curiosidad": "Su carnaval, a orillas del Paraná, es el más famoso de Paraguay. Cerca están las misiones jesuíticas de Trinidad y Jesús.",
+    "otras_formas": []
+  },
+  {
+    "id": "manabita",
+    "gentilicio": "manabita",
+    "lugar": "Manabí",
+    "pais": "Ecuador",
+    "region": "Manabí",
+    "coordenadas": [
+      -1.05,
+      -80.45
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Managua",
+      "Maracaibo"
+    ],
+    "explicacion": "Es un gentilicio con el sufijo -ita, poco frecuente en español, sobre el nombre de la provincia.",
+    "curiosidad": "Los sombreros de paja toquilla de Montecristi, los «Panamá», se tejen en Manabí.",
+    "otras_formas": []
+  },
+  {
+    "id": "xalapeño",
+    "gentilicio": "xalapeño",
+    "lugar": "Xalapa",
+    "pais": "México",
+    "region": "Veracruz",
+    "coordenadas": [
+      19.544,
+      -96.927
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Jalisco",
+      "Xàbia"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad, del náhuatl, que también se escribe Jalapa.",
+    "curiosidad": "El chile jalapeño se llama así por ella: es «de Jalapa».",
+    "otras_formas": [
+      "jalapeño"
+    ]
+  },
+  {
+    "id": "lorquino",
+    "gentilicio": "lorquino",
+    "lugar": "Lorca",
+    "pais": "España",
+    "region": "Región de Murcia",
+    "coordenadas": [
+      37.671,
+      -1.701
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Loja",
+      "Lora del Río"
+    ],
+    "explicacion": "Se forma con el sufijo -ino sobre el nombre de la ciudad.",
+    "curiosidad": "Su Semana Santa enfrenta a los pasos «blanco» y «azul» con desfiles bíblicos a caballo.",
+    "otras_formas": []
+  },
+  {
+    "id": "tuccitano",
+    "gentilicio": "tuccitano",
+    "lugar": "Martos",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.721,
+      -3.972
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Tudela",
+      "Écija"
+    ],
+    "explicacion": "Viene de Tucci, la colonia romana sobre la que se asienta Martos.",
+    "curiosidad": "Está rodeada de olivares: es uno de los municipios que más aceite de oliva producen del mundo.",
+    "otras_formas": [
+      "marteño"
+    ]
+  },
+  {
+    "id": "vigués",
+    "gentilicio": "vigués",
+    "lugar": "Vigo",
+    "pais": "España",
+    "region": "Galicia",
+    "coordenadas": [
+      42.24,
+      -8.72
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Vic",
+      "Villena"
+    ],
+    "explicacion": "Se forma con el sufijo -és sobre el nombre de la ciudad.",
+    "curiosidad": "Es el mayor puerto pesquero de Europa, y sus luces de Navidad son famosas en toda España.",
+    "otras_formas": []
+  },
+  {
+    "id": "valdiviano",
+    "gentilicio": "valdiviano",
+    "lugar": "Valdivia",
+    "pais": "Chile",
+    "region": "Los Ríos",
+    "coordenadas": [
+      -39.814,
+      -73.246
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Valledupar",
+      "Valdepeñas"
+    ],
+    "explicacion": "Se forma con el sufijo -ano sobre el nombre de la ciudad, que fundó Pedro de Valdivia en 1552.",
+    "curiosidad": "Sufrió en 1960 el terremoto más fuerte registrado en la historia, de magnitud 9,5.",
+    "otras_formas": []
+  },
+  {
+    "id": "opita",
+    "gentilicio": "opita",
+    "lugar": "Huila",
+    "pais": "Colombia",
+    "region": "Huila",
+    "coordenadas": [
+      2.5,
+      -75.6
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Ocaña",
+      "Oaxaca"
+    ],
+    "explicacion": "Es el gentilicio popular de los huilenses; su origen es incierto.",
+    "curiosidad": "En el Huila está San Agustín, con cientos de estatuas de piedra precolombinas.",
+    "otras_formas": [
+      "huilense"
+    ]
+  },
+  {
+    "id": "chiclayano",
+    "gentilicio": "chiclayano",
+    "lugar": "Chiclayo",
+    "pais": "Perú",
+    "region": "Lambayeque",
+    "coordenadas": [
+      -6.771,
+      -79.841
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Chillán",
+      "Chiclana de la Frontera"
+    ],
+    "explicacion": "Se forma con el sufijo -ano sobre el nombre de la ciudad.",
+    "curiosidad": "La llaman «la ciudad de la amistad». Muy cerca se halló en 1987 la tumba del Señor de Sipán.",
+    "otras_formas": []
+  },
+  {
+    "id": "reusense",
+    "gentilicio": "reusense",
+    "lugar": "Reus",
+    "pais": "España",
+    "region": "Cataluña",
+    "coordenadas": [
+      41.155,
+      1.107
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Requena",
+      "Ripoll"
+    ],
+    "explicacion": "Se forma con el sufijo -ense sobre el nombre de la ciudad.",
+    "curiosidad": "Es la ciudad natal de Antoni Gaudí y del pintor Marià Fortuny.",
+    "otras_formas": []
+  },
+  {
+    "id": "lojeño",
+    "gentilicio": "lojeño",
+    "lugar": "Loja",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.169,
+      -4.151
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "etiqueta": "Loja (España)",
+    "falsas": [
+      "Loja (Ecuador)",
+      "Logroño"
+    ],
+    "explicacion": "Se forma con el sufijo -eño sobre el nombre de la ciudad. Los de Loja, en Ecuador, son lojanos.",
+    "curiosidad": "Está en el «poniente granadino», a medio camino entre Granada y Málaga.",
+    "otras_formas": []
+  },
+  {
+    "id": "tabasqueño",
+    "gentilicio": "tabasqueño",
+    "lugar": "Tabasco",
+    "pais": "México",
+    "region": "Tabasco",
+    "coordenadas": [
+      17.99,
+      -92.93
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Tlaxcala",
+      "Taxco"
+    ],
+    "explicacion": "Se forma con el sufijo -eño sobre el nombre del estado.",
+    "curiosidad": "La salsa picante Tabasco, aunque se fabrica en Luisiana, se llama así por este estado.",
+    "otras_formas": []
+  },
+  {
+    "id": "cienfueguero",
+    "gentilicio": "cienfueguero",
+    "lugar": "Cienfuegos",
+    "pais": "Cuba",
+    "region": "Cienfuegos",
+    "coordenadas": [
+      22.146,
+      -80.435
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Cifuentes",
+      "Ciénaga"
+    ],
+    "explicacion": "Se forma con el sufijo -ero sobre el nombre de la ciudad, que honra al gobernador José Cienfuegos.",
+    "curiosidad": "La llaman «la Perla del Sur». Su centro histórico, de trazado neoclásico, es Patrimonio de la Humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "minuano",
+    "gentilicio": "minuano",
+    "lugar": "Minas",
+    "pais": "Uruguay",
+    "region": "Lavalleja",
+    "coordenadas": [
+      -34.376,
+      -55.237
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Minas Gerais",
+      "Mina Clavero"
+    ],
+    "explicacion": "Es el gentilicio de Minas, la capital de Lavalleja. Viene de los minuanes, un pueblo indígena de la zona.",
+    "curiosidad": "Cerca está el cerro Arequita y el manantial de Salus, de donde sale una de las aguas embotelladas más conocidas del país.",
+    "otras_formas": []
+  },
+  {
+    "id": "mostoleño",
+    "gentilicio": "mostoleño",
+    "lugar": "Móstoles",
+    "pais": "España",
+    "region": "Comunidad de Madrid",
+    "coordenadas": [
+      40.322,
+      -3.865
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Mota del Cuervo",
+      "Mataró"
+    ],
+    "explicacion": "Se forma con el sufijo -eño sobre el nombre de la ciudad.",
+    "curiosidad": "Su alcalde firmó en 1808 el bando que llamaba a levantarse contra los franceses tras el Dos de Mayo.",
+    "otras_formas": []
+  },
+  {
+    "id": "ponceño",
+    "gentilicio": "ponceño",
+    "lugar": "Ponce",
+    "pais": "Puerto Rico",
+    "region": "Puerto Rico",
+    "coordenadas": [
+      18.011,
+      -66.614
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Ponferrada",
+      "Pontevedra"
+    ],
+    "explicacion": "Se forma con el sufijo -eño sobre el nombre de la ciudad, que recuerda a Juan Ponce de León.",
+    "curiosidad": "La llaman «la Perla del Sur», como a Cienfuegos. Su antiguo parque de bomberos, a rayas rojas y negras, es su emblema.",
+    "otras_formas": []
+  },
+  {
+    "id": "iliplense",
+    "gentilicio": "iliplense",
+    "lugar": "Niebla",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.362,
+      -6.676
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Alcalá del Río",
+      "Lebrija"
+    ],
+    "explicacion": "Viene de Ilipla, el nombre romano de Niebla. Ojo: ilipense es de Alcalá del Río, la antigua Ilipa, y nebrisense, de Lebrija.",
+    "curiosidad": "Conserva casi entera su muralla almohade, de más de dos kilómetros.",
+    "otras_formas": [
+      "niebleño"
+    ]
+  },
+  {
+    "id": "antofagastino",
+    "gentilicio": "antofagastino",
+    "lugar": "Antofagasta",
+    "pais": "Chile",
+    "region": "Antofagasta",
+    "coordenadas": [
+      -23.65,
+      -70.4
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Arica",
+      "Iquique"
+    ],
+    "explicacion": "Se forma con el sufijo -ino sobre el nombre de la ciudad.",
+    "curiosidad": "Junto a la ciudad se alza la Portada, un gran arco natural de roca en el mar.",
+    "otras_formas": []
+  },
+  {
+    "id": "tordesillano",
+    "gentilicio": "tordesillano",
+    "lugar": "Tordesillas",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      41.502,
+      -5.0
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Torrijos",
+      "Tortosa"
+    ],
+    "explicacion": "Se forma con el sufijo -ano sobre el nombre de la villa.",
+    "curiosidad": "En 1494 se firmó allí el tratado que repartió el mundo por descubrir entre Castilla y Portugal.",
+    "otras_formas": []
+  },
+  {
+    "id": "petromacorisano",
+    "gentilicio": "petromacorisano",
+    "lugar": "San Pedro de Macorís",
+    "pais": "República Dominicana",
+    "region": "San Pedro de Macorís",
+    "coordenadas": [
+      18.461,
+      -69.308
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "San Pedro Sula",
+      "Petrópolis"
+    ],
+    "explicacion": "Se forma con «petro-», de Pedro, y el nombre de Macorís.",
+    "curiosidad": "Ha dado tantos jugadores a las Grandes Ligas de béisbol que la llaman «la cuna de los peloteros».",
+    "otras_formas": [
+      "macorisano"
+    ]
+  },
+  {
+    "id": "ciudadrealeño",
+    "gentilicio": "ciudadrealeño",
+    "lugar": "Ciudad Real",
+    "pais": "España",
+    "region": "Castilla-La Mancha",
+    "coordenadas": [
+      38.986,
+      -3.927
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Ciudad Rodrigo",
+      "Villarreal"
+    ],
+    "explicacion": "Se forma sobre las dos palabras del nombre de la ciudad, que fundó Alfonso X como Villa Real.",
+    "curiosidad": "Hasta 1420 se llamó Villa Real; Juan II le dio el título de ciudad.",
+    "otras_formas": []
+  },
+  {
+    "id": "manizaleño",
+    "gentilicio": "manizaleño",
+    "lugar": "Manizales",
+    "pais": "Colombia",
+    "region": "Caldas",
+    "coordenadas": [
+      5.07,
+      -75.514
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Manzanillo",
+      "Managua"
+    ],
+    "explicacion": "Se forma con el sufijo -eño sobre el nombre de la ciudad.",
+    "curiosidad": "Es una de las capitales del Eje Cafetero, y su Feria, en enero, tiene la temporada taurina más importante de Colombia.",
+    "otras_formas": []
+  },
+  {
+    "id": "riosecano",
+    "gentilicio": "riosecano",
+    "lugar": "Medina de Rioseco",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      41.883,
+      -5.043
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Riotinto",
+      "Medina del Campo"
+    ],
+    "explicacion": "Se forma sobre la segunda parte del nombre, Rioseco. Los de Medina del Campo son medinenses.",
+    "curiosidad": "Por su riqueza comercial en el siglo XVI la llamaban «la Ciudad de los Almirantes» y «la India chica».",
+    "otras_formas": []
+  },
+  {
+    "id": "panameño",
+    "gentilicio": "panameño",
+    "lugar": "Panamá",
+    "pais": "Panamá",
+    "region": "Panamá",
+    "coordenadas": [
+      8.98,
+      -79.52
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Paraguay",
+      "Perú"
+    ],
+    "explicacion": "Se forma con el sufijo -eño sobre el nombre del país y de su capital.",
+    "curiosidad": "El sombrero de Panamá se teje en realidad en Ecuador; tomó el nombre porque se vendía a quienes construían el canal.",
+    "otras_formas": []
+  },
+  {
+    "id": "tudelano",
+    "gentilicio": "tudelano",
+    "lugar": "Tudela",
+    "pais": "España",
+    "region": "Navarra",
+    "coordenadas": [
+      42.061,
+      -1.606
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Tui",
+      "Utebo"
+    ],
+    "explicacion": "Se forma con el sufijo -ano sobre el nombre de la ciudad. Ojo con tudense, que es de Tui.",
+    "curiosidad": "Es la capital de la Ribera navarra, tierra de verduras: espárragos, alcachofas y cogollos.",
+    "otras_formas": []
+  },
+  {
+    "id": "santandereano",
+    "gentilicio": "santandereano",
+    "lugar": "Santander",
+    "pais": "Colombia",
+    "region": "Santander",
+    "coordenadas": [
+      7.0,
+      -73.25
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "etiqueta": "Santander (Colombia)",
+    "falsas": [
+      "Santander (España)",
+      "Santa Marta"
+    ],
+    "explicacion": "Es el gentilicio del departamento colombiano de Santander; los de la ciudad cántabra son santanderinos.",
+    "curiosidad": "Las hormigas culonas tostadas son un manjar típico santandereano.",
+    "otras_formas": []
+  },
+  {
+    "id": "matancero",
+    "gentilicio": "matancero",
+    "lugar": "Matanzas",
+    "pais": "Cuba",
+    "region": "Matanzas",
+    "coordenadas": [
+      23.041,
+      -81.578
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Mataró",
+      "Matamoros"
+    ],
+    "explicacion": "Se forma con el sufijo -ero sobre el nombre de la ciudad.",
+    "curiosidad": "La llaman «la Atenas de Cuba» por su vida cultural. Allí nació el danzón.",
+    "otras_formas": []
+  },
+  {
+    "id": "iquiteño",
+    "gentilicio": "iquiteño",
+    "lugar": "Iquitos",
+    "pais": "Perú",
+    "region": "Loreto",
+    "coordenadas": [
+      -3.749,
+      -73.253
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Iquique",
+      "Ica"
+    ],
+    "explicacion": "Se forma con el sufijo -eño sobre el nombre de la ciudad. Los de Iquique, en Chile, son iquiqueños.",
+    "curiosidad": "Es la mayor ciudad del mundo a la que no se puede llegar por carretera: solo por río o en avión.",
+    "otras_formas": []
+  },
+  {
+    "id": "urgelense",
+    "gentilicio": "urgelense",
+    "lugar": "La Seu d'Urgell",
+    "pais": "España",
+    "region": "Cataluña",
+    "coordenadas": [
+      42.358,
+      1.461
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Urduña",
+      "Puigcerdà"
+    ],
+    "explicacion": "Viene de Urgel, el condado medieval cuya sede episcopal era La Seu d'Urgell.",
+    "curiosidad": "Su obispo es copríncipe de Andorra, junto con el presidente de Francia.",
+    "otras_formas": [
+      "urgelitano"
+    ]
+  },
+  {
+    "id": "tucumano",
+    "gentilicio": "tucumano",
+    "lugar": "Tucumán",
+    "pais": "Argentina",
+    "region": "Tucumán",
+    "coordenadas": [
+      -26.808,
+      -65.217
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Tumbes",
+      "Tuxtla Gutiérrez"
+    ],
+    "explicacion": "Se forma con el sufijo -ano sobre el nombre de la provincia.",
+    "curiosidad": "En San Miguel de Tucumán se declaró la independencia argentina el 9 de julio de 1816.",
+    "otras_formas": []
+  },
+  {
+    "id": "nerjeño",
+    "gentilicio": "nerjeño",
+    "lugar": "Nerja",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.758,
+      -3.875
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Níjar",
+      "Nájera"
+    ],
+    "explicacion": "Se forma con el sufijo -eño sobre el nombre de la ciudad, que viene del árabe Narixa.",
+    "curiosidad": "Su Balcón de Europa y su cueva, con algunas de las pinturas más antiguas conocidas, la hicieron famosa. Allí se rodó «Verano azul».",
+    "otras_formas": []
+  },
+  {
+    "id": "olimareño",
+    "gentilicio": "olimareño",
+    "lugar": "Treinta y Tres",
+    "pais": "Uruguay",
+    "region": "Treinta y Tres",
+    "coordenadas": [
+      -33.233,
+      -54.383
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Olmedo",
+      "Tres Arroyos"
+    ],
+    "explicacion": "Viene del río Olimar, que pasa por la ciudad. El nombre de Treinta y Tres recuerda a los 33 orientales que iniciaron la independencia en 1825.",
+    "curiosidad": "Los Olimareños fueron un famoso dúo de canto popular uruguayo.",
+    "otras_formas": [
+      "treintaitresino"
+    ]
+  },
+  {
+    "id": "benidormense",
+    "gentilicio": "benidormense",
+    "lugar": "Benidorm",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      38.538,
+      -0.131
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Benicarló",
+      "Benavente"
+    ],
+    "explicacion": "Se forma con el sufijo -ense sobre el nombre de la ciudad.",
+    "curiosidad": "Pasó de pueblo de pescadores a ciudad de rascacielos: tiene más por habitante que casi ninguna otra del mundo.",
+    "otras_formas": []
+  },
+  {
+    "id": "coloniense",
+    "gentilicio": "coloniense",
+    "lugar": "Colonia del Sacramento",
+    "pais": "Uruguay",
+    "region": "Colonia",
+    "coordenadas": [
+      -34.471,
+      -57.844
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Colón (Panamá)",
+      "Colima"
+    ],
+    "explicacion": "Se forma con el sufijo -ense sobre el nombre de la ciudad.",
+    "curiosidad": "La fundaron los portugueses en 1680, frente a Buenos Aires; su barrio histórico es Patrimonio de la Humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "durangués",
+    "gentilicio": "durangués",
+    "lugar": "Durango",
+    "pais": "España",
+    "region": "País Vasco",
+    "coordenadas": [
+      43.17,
+      -2.631
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "etiqueta": "Durango (España)",
+    "falsas": [
+      "Durango (México)",
+      "Dueñas"
+    ],
+    "explicacion": "Se forma con el sufijo -és; los de Durango, en México, son duranguenses.",
+    "curiosidad": "La ciudad mexicana tomó su nombre de esta villa vizcaína.",
+    "otras_formas": []
+  },
+  {
+    "id": "puneño",
+    "gentilicio": "puneño",
+    "lugar": "Puno",
+    "pais": "Perú",
+    "region": "Puno",
+    "coordenadas": [
+      -15.84,
+      -70.022
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Puebla",
+      "Punta Arenas"
+    ],
+    "explicacion": "Se forma con el sufijo -eño sobre el nombre de la ciudad.",
+    "curiosidad": "Está a orillas del Titicaca, a más de 3800 metros, y se considera la capital del folclore peruano.",
+    "otras_formas": []
+  },
+  {
+    "id": "torrevejense",
+    "gentilicio": "torrevejense",
+    "lugar": "Torrevieja",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      37.978,
+      -0.683
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Torrelavega",
+      "Torredonjimeno"
+    ],
+    "explicacion": "Se forma con el sufijo -ense sobre el nombre de la ciudad.",
+    "curiosidad": "Sus lagunas saladas se tiñen de rosa. Cada verano celebra un certamen internacional de habaneras.",
+    "otras_formas": []
+  },
+  {
+    "id": "santacruceño",
+    "gentilicio": "santacruceño",
+    "lugar": "Santa Cruz",
+    "pais": "Argentina",
+    "region": "Patagonia",
+    "coordenadas": [
+      -49.0,
+      -70.0
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "etiqueta": "Santa Cruz (Argentina)",
+    "falsas": [
+      "Santa Cruz de la Sierra",
+      "Santa Cruz de Tenerife"
+    ],
+    "explicacion": "Es el gentilicio de la provincia argentina de Santa Cruz. Los de Santa Cruz de la Sierra son cruceños.",
+    "curiosidad": "En ella está el glaciar Perito Moreno, uno de los pocos del mundo que no retroceden.",
+    "otras_formas": []
+  },
+  {
+    "id": "chiapaneco",
+    "gentilicio": "chiapaneco",
+    "lugar": "Chiapas",
+    "pais": "México",
+    "region": "Chiapas",
+    "coordenadas": [
+      16.5,
+      -92.6
+    ],
+    "nivel": 1,
+    "formato": "reves",
+    "falsas": [
+      "chihuahuense",
+      "chapín"
+    ],
+    "explicacion": "Se forma con el sufijo -eco sobre el nombre del estado. Chihuahuense es de Chihuahua y chapín, de Guatemala.",
+    "curiosidad": "En Chiapas están las ruinas mayas de Palenque y el cañón del Sumidero.",
+    "otras_formas": []
+  },
+  {
+    "id": "barquisimetano",
+    "gentilicio": "barquisimetano",
+    "lugar": "Barquisimeto",
+    "pais": "Venezuela",
+    "region": "Lara",
+    "coordenadas": [
+      10.067,
+      -69.347
+    ],
+    "nivel": 2,
+    "formato": "reves",
+    "falsas": [
+      "barranquillero",
+      "bumangués"
+    ],
+    "explicacion": "Se forma con el sufijo -ano sobre el nombre de la ciudad. Barranquillero es de Barranquilla y bumangués, de Bucaramanga.",
+    "curiosidad": "La llaman «la capital musical de Venezuela».",
+    "otras_formas": []
+  },
+  {
+    "id": "pontanés",
+    "gentilicio": "pontanés",
+    "lugar": "Puente Genil",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.39,
+      -4.767
+    ],
+    "nivel": 3,
+    "formato": "reves",
+    "falsas": [
+      "pontevedrés",
+      "ponferradino"
+    ],
+    "explicacion": "Se forma sobre «puente», en latín pons, pontis. Pontevedrés es de Pontevedra y ponferradino, de Ponferrada.",
+    "curiosidad": "Es famoso por su carne de membrillo y por su Semana Santa, la Mananta.",
+    "otras_formas": []
+  },
+  {
+    "id": "tarifeño",
+    "gentilicio": "tarifeño",
+    "lugar": "Tarifa",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.014,
+      -5.604
+    ],
+    "nivel": 1,
+    "formato": "reves",
+    "falsas": [
+      "tarraconense",
+      "turolense"
+    ],
+    "explicacion": "Se forma con el sufijo -eño sobre el nombre de la ciudad, que recuerda a Tarif, el caudillo bereber que desembarcó allí en el 710. Tarraconense es de Tarragona y turolense, de Teruel.",
+    "curiosidad": "Es el punto más al sur de la Europa continental, y uno de los sitios con más viento: la meca del kitesurf.",
+    "otras_formas": []
+  },
+  {
+    "id": "alcañizano",
+    "gentilicio": "alcañizano",
+    "lugar": "Alcañiz",
+    "pais": "España",
+    "region": "Aragón",
+    "coordenadas": [
+      41.051,
+      -0.133
+    ],
+    "nivel": 2,
+    "formato": "reves",
+    "falsas": [
+      "alcalaíno",
+      "alcarreño"
+    ],
+    "explicacion": "Se forma con el sufijo -ano sobre el nombre de la ciudad. Alcalaíno es de Alcalá y alcarreño, de la Alcarria.",
+    "curiosidad": "Su circuito, MotorLand Aragón, recibe carreras del Mundial de motociclismo.",
+    "otras_formas": []
+  },
+  {
+    "id": "cartagenero",
+    "gentilicio": "cartagenero",
+    "lugar": "Cartagena",
+    "pais": "España",
+    "region": "Región de Murcia",
+    "coordenadas": [
+      37.626,
+      -0.996
+    ],
+    "nivel": 3,
+    "formato": "reves",
+    "etiqueta": "Cartagena (España)",
+    "falsas": [
+      "cartaginés",
+      "cartujano"
+    ],
+    "explicacion": "Se forma con el sufijo -ero, igual que el de Cartagena de Indias. Cartaginés es de Cartago y cartujano, de la orden de la Cartuja.",
+    "curiosidad": "Fue Qart Hadasht, «ciudad nueva», fundada por los cartagineses. Conserva un gran teatro romano.",
+    "otras_formas": []
   }
 ]
